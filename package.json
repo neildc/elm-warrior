@@ -1,0 +1,14 @@
+{
+  "name": "elm-warrior-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "elm-app start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-elm-app": "^5.22.0"
+  }
+}
